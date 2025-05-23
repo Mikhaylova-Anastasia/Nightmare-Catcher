@@ -1,0 +1,21 @@
+I - 3 (rooms)
+I.1 - 1text - 3,[1] (monsters)
+I.2 - 2text - 3,[1] (monsters)
+I.3 - 3text - 1 (boss) - 4text
+
+II - 5text - 3 (rooms)
+II.1 - 6text - 3,[2] (monsters)
+II.2 - 7text - 3,[2] (monsters)
+II.3 - 8text - 2 (boss) - 9text
+
+III - 10text
+
+IV - 3 (rooms)
+IV.1 - 11text - 3,[4] (monsters)
+IV.2 - 12text - 3,[4] (monsters)
+IV.3 - 13text - 4 (boss) - 14text
+
+V - 3 (rooms)
+V.1 - 15text - 4,[1,2,4,4] (monsters)
+V.2 - 16text - 4,[1,2,4,4] (monsters)
+V.3 - 17text - 5 (boss) - 18text

@@ -1,0 +1,34 @@
+0text - The lights in a small cozy room go out, only a dim glow from a little night light remains.
+
+0.1text - Why, you ask? Because your owner is still too scared to turn off the lights, the kid is only five after all. It's up to you to make their fears go away and grant them peace.
+
+0.2text - You are a family relic, a supernatural being trapped inside a trinket, you have saved many people from their nightmares. Surely, you will effortlessly ease another worried mind, right?
+
+0.3text - As the child closes their eyes and drifts into sleep, your soul leaves the amulet and you start your journey into their's mind.
+
+1text - The nightmare was much darker than you  imagined. You venture further and further into the darkness without even knowing the right way or the appearance of this dimension. But there's a gut feeling that tells you that someone else is here, studying the newcomer to the nightmare.
+
+1.1text - The eyes finally adjust to the dark and you see what the realm looks like: it's a long-long hallway with no end seen. It doesn't look scary at first, but there's still something odd about it...not being able to see where you're going and the feeling of loneliness can be overwhelming even for an ancient spirit, but you need to pull yourself together for there's definitely something or someone lurking in the dark waiting to perform a sneak attack. 
+
+1.2text - Luckily, you beat them to it and now can clearly see the creature's appearance.
+
+1.3text - A shadow-like figure is in front of you.
+Its form is constantly shifting and changing but there are some features that remain the same: red eyes that pierce through your soul and sharp claws that can tear through human flesh with ease. 
+
+1.4text - You shake away your fear and prepare yourself for a fight...
+
+4text - 
+5text - 
+6text - 
+7text - 
+8text - 
+9text - 
+10text - 
+11text - 
+12text - 
+13text - 
+14text - 
+15text - 
+16text - 
+17text - 
+18text - 

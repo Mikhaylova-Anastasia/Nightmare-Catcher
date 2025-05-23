@@ -1,0 +1,21 @@
+1 name - Eclipse
+1 hp - 20
+1 atk - 7
+1 special ability - Blindness
+===
+2 name - Sadistic teacher
+2 hp - 26
+2 atk - 10
+2 special ability - Panic
+===
+3
+===
+4 name - Energy vampire
+4 hp - 33
+4 atk - 13
+4 special ability - Drain
+===
+5 name - Owner's reflection
+5 hp - 50
+5 atk - 17
+5 special ability - all
