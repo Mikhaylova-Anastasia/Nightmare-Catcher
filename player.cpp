@@ -199,3 +199,8 @@ void Player::TakeDamage(int damage) {
     }
     std::cout << std::endl;
 }
+
+void Player::ClearAbilities() {
+    abilities.clear();
+    ability_effects.clear();
+}

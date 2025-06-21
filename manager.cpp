@@ -116,9 +116,6 @@ void Manager(Player& player, Level& level) {
                 }
                 if (h == 17) {
 
-                    player.ReadAbilityName("hero abilities.txt", level.get_current_level());
-                    player.ReadAbilityEffects("hero abilities.txt", level.get_current_level());
-
                     Boss opponent;
 
                     opponent.ReadDataFromFile("bosses.txt", level.get_current_level());
@@ -132,6 +129,7 @@ void Manager(Player& player, Level& level) {
                         player.ReadDataFromFile("main character.txt");
                     }
                     std::cin.get();
+                    player.ClearAbilities();
                 }
                 if (h == 20) {
 

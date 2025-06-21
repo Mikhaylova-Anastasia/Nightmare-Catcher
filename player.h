@@ -35,5 +35,6 @@ public:
     void enhancing(int icreased_atk);
     void eat(int food);
     void TakeDamage(int damage);
+    void ClearAbilities();
 };
 #endif
