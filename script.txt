@@ -1,4 +1,4 @@
-0text - The lights in a small cozy room go out, only a dim glow from a little night light remains.
+0.0text - The lights in a small cozy room go out, only a dim glow from a little night light remains.
 
 0.1text - Why, you ask? Because your owner is still too scared to turn off the lights, the kid is only five after all. It's up to you to make their fears go away and grant them peace.
 
@@ -6,29 +6,203 @@
 
 0.3text - As the child closes their eyes and drifts into sleep, your soul leaves the amulet and you start your journey into their's mind.
 
-1text - The nightmare was much darker than you  imagined. You venture further and further into the darkness without even knowing the right way or the appearance of this dimension. But there's a gut feeling that tells you that someone else is here, studying the newcomer to the nightmare.
+1.0text - The nightmare was much darker than you  imagined. You venture further and further into the darkness without even knowing the right way or the appearance of this dimension. 
 
-1.1text - The eyes finally adjust to the dark and you see what the realm looks like: it's a long-long hallway with no end seen. It doesn't look scary at first, but there's still something odd about it...not being able to see where you're going and the feeling of loneliness can be overwhelming even for an ancient spirit, but you need to pull yourself together for there's definitely something or someone lurking in the dark waiting to perform a sneak attack. 
+1.1text - But there's a gut feeling that tells you that someone else is here, studying the newcomer to the nightmare.
 
-1.2text - Luckily, you beat them to it and now can clearly see the creature's appearance.
+1.2text - The eyes finally adjust to the dark and you see what the realm looks like: it's a long-long hallway with no end seen. 
 
-1.3text - A shadow-like figure is in front of you.
-Its form is constantly shifting and changing but there are some features that remain the same: red eyes that pierce through your soul and sharp claws that can tear through human flesh with ease. 
+1.3text - It doesn't look scary at first, but there's still something odd about it...not being able to see where you're going and the feeling of loneliness can be overwhelming even for an ancient spirit, but you need to pull yourself together for there's definitely something or someone lurking in the dark waiting to perform a sneak attack. 
 
-1.4text - You shake away your fear and prepare yourself for a fight...
+1.4text - Luckily, you beat them to it and now can clearly see the creature's appearance.
 
-4text - 
-5text - 
-6text - 
-7text - 
-8text - 
-9text - 
-10text - 
-11text - 
-12text - 
-13text - 
-14text - 
-15text - 
-16text - 
-17text - 
-18text - 
+1.5text - A shadow-like figure is in front of you. Its form is constantly shifting and changing but there are some features that remain the same: red eyes that pierce through your soul and sharp claws that can tear through human flesh with ease. 
+
+1.6text - You shake away your fear and prepare yourself for a fight...
+
+1.7text - But the monsters don't seem like retreating... They're attacking again and again.
+
+1.8text - You traveled further and further into the dark abyss destroying every shadow that dared to block your way.
+
+1.9text - It wasn't hard to figure out what your little owner's fear was:
+
+1.10text - Darkness...
+
+1.11text - Suddenly you see a dim light in the end of the hallway and decide to follow it.
+
+1.12text - The end of the hallway turned out to be a room that was only visible because of the moonlight.
+
+1.13text - You hear a door shutting down behind you. You cannot turn back now. Time to meet the source of your owner's nightmares.
+
+1.14text - There it stood in front of you. A creature that is hard to describe. Its appearance was changing from time to time taking the forms of the monsters from the horror movies that your owner watched despite being too young.
+
+1.15text - It was huge. Much bigger than the shadows you have faced along the way.
+
+1.16text - It didn't say a word but you saw the murderous intent in its eyes. Peace is not an option here.
+
+1.17text - You draw out your weapon ready to get rid of this nightmare once and for all.
+
+1.18text - The monster is gone now and the darkness has vanished. You can see everything more clearly.
+
+1.19text - Now it's just a familiar bedroom, exactly the same as in reality.
+
+1.20text - Your job here is done, it's time to become a humble amulet once again....For some time at least.
+
+2.0text - The years went by, your owner grew up. They began attending school.
+
+2.1text - You notice that their sleep is uneasy again, you must do something about it.
+
+2.2text - As you enter the nightmare you look at the form of this dimension.
+
+2.3text - There are lockers clinging to the walls, multiple doors with numbers on them and many, many children's voices screaming mean things about someone.
+
+2.4text - After walking for some time you find yourself surrounded by those "children".
+
+2.5text - The only thing that gives away their childish nature is their height. They have sharp teeth and disgustingly deformed faced that matched with the things that came out of their mouths.
+
+2.6text - Looks like to clear the way you will have to fight again!
+
+2.7text - Agh... These little bastards still can't let you go ahead.
+
+2.8text - Finally you managed to get rid of those annoying creatures.
+
+2.9text - There's only one room left: the teacher's office.
+
+2.10text - You realise that bullying from peers isn't the main problem that your current owner has.
+
+2.11text - It's something bigger, something more serious. Only an adult can mock the kid to the point that they have nightmares.
+
+2.12text - Of course, it's the teacher.
+
+2.13text - You enter the office.
+
+2.14text - There's a tall slender figure in front of you. The glasses blur his eyes but you can feel his gaze piercing through you.
+
+2.15text - He opened his mouth revealing his rotting teeth. If it wasn't a nightmare, you would feel the rotting smell coming from him.
+
+2.16text - "You are late"- he said, taking a ruler from the table, - "you deserve detention!"
+
+2.17text - He raised a hand with a ruler getting ready to hit you.
+
+2.18text - The teacher fell unconscious and disappeared.
+
+2.19text - You helped the child to overcome one of the biggest childhood fears of all, you should be proud of yoursel.
+
+2.20text - You also feel like you learnt something new from this fight. And now your owner can sleep peacefully once again!
+
+3.0text - After dealing with bullying the kid's life got relatively peaceful.
+
+3.1text - However, something felt off. You decided to investigate his dreams even though they weren't that scary.
+
+3.2text - You were surprised not to see any monsters or people in that "nightmare".
+
+3.3text - There was a sign "Make the right choice" on the wall that was inviting you to enter a huge labyrinth.
+
+3.4text - Where do you feel like going?
+
+3.5text - Oops! There's a cliff! Your intuition failed you. You decide return to the beginning.
+
+3.6text - Ugh! A dead end! That definitely wasn't the best choice! You decide return to the beginning.
+
+3.7text - You continue your path without troubles. Looks like you guessed correctly!
+
+3.8text - As you reach the end of the labyrinth, it's time to claim your prize.
+There had to be an answer, the one true career path for your owner!
+
+3.9text - You came closer and opened the chest with the so-called prize. It was a note with a single sentence on it: "Choose your dream job!".
+
+3.10text - So simple, and yet it is the only option that can make your possessor truly happy.
+
+3.11text - You feel that you became a little bit stronger after roaming in the labyrinth for so long.
+
+4.0text - Your owner became even more mature and started having a relationship!
+
+4.1text - Love, such a beautiful thing... But wait... Why are they unhappy? Why was the peaceful sleep of your precious possessor disturbed again?
+
+4.2text - Seems like it's time to work again.
+
+4.3text - You arrived at the another nightmare realm. This one was much more pleasant looking than the rest, it looked like a huge gothic castle.
+
+4.4text - You walk through the halls illuminated by candles and can't help but to appreciate the beautiful and stylish architecture.
+
+4.5text - But it was a trick for when you least expected it you felt a breath against your neck.
+
+4.6text - You swiftly turn around and see a huge bat staring hungrily at you!
+
+4.7text - These creatures seem endless...
+
+4.8text - You throw away the last of the bats that cling to you. Looks like they've left you alone.
+
+4.9text - You reached the core of the nightmare once again.
+
+4.10text - It was a poorly illuminated throne room.
+
+4.11text - Where on a glorious throne sat a young blonde man with long hair pulled back into a ponytail.
+
+4.12text - He stood up and clapped his hands sarcastically.
+
+4.13text - "Bravo, hero who fights nightmares. You really came this far and my servants didn't bother you at all! I am impressed, to say the least~"
+
+4.14text - He chuckled, revealing his sharp fangs.
+
+4.15text - "But do you really know what's best for them? Well then prove it to me!"
+
+4.16text - Unfortunately, the text was too short( Imagine another wonderful description here...
+
+4.17text - And here too
+
+4.18text - The vampire finally collapsed.
+
+4.19text - "Hah, not bad, you are stronger than I expected~ Perhaps you do know what's better for that sweet human, hero". The young man vanished into thin air just like other nightmares usually do.
+
+4.20text - This battle sure left quite a unique impression in your mind. You managed to pick up some interesting moves from that vampire.
+
+5.0text - Your owner feels uneasy again.
+
+5.1text - However... You don't really see what the problem is. The toxic lovers are out of their life, no one is bullying or belittling them and they don't have silly fears like darkness or monsters.
+
+5.2text - You just have to figure that out.
+
+5.3text - As you find yourself in another nightmare realm you see....Your and your owner's house? Yes, the exact same house you two live in. But for some reason it feels more spacious and bigger.
+
+5.4text - As you exit the bedroom you are shocked by the sight: every little monster you used to fight was there!
+
+5.5text - Bats, shadows, creepy-looking kids - everyone.
+
+5.6text - Looks like those fears never left your possessor's subconsciousness no matter what you did. Well, you just need to give them all a good old beating just like old times.
+
+5.7text - They surround you again and again!
+
+5.8text - You fought many monsters and finally were ready to open the door to the final room.
+
+5.9text - As you open the door you see...the bedroom? The exact same bedroom where everything began.
+
+5.10text - The same bed, the same night light your human used to turn on when he was small.
+
+5.11text - But you were even more stunned by the embodiment of the fear. It was ...
+
+5.12text - Your possessor!
+
+5.13text - The same person you wanted to protect!
+
+5.14text - They looked at you without malice unlike the other nightmares.
+
+5.15text - And gave you a sad smile.
+
+5.16text - "Thank you for protecting me all those years, pal", - they said almost whispering.
+
+5.17text - "But I am afraid you won't be able to help me with this one. I can't run away from myself. Everything that was happening over the years. It was my fault."
+
+5.18text - You did it!
+
+5.19text - Now even their inner insecurities were no more. Your owner can finally live a happy life.
+
+5.20text - This journey and this human will definitely be remembered by you.
+
+6.0text - ...
+
+6.1text - Your owner has never required any help since that day, they made a family,  bought a new house and life finally started to move uphill.
+
+6.2text - You were put in their daughter's bedroom to guard her sleep. I wonder what fears might she have.
+
+6.3text - But you will definitely help her no matter what they might be, right, Nightmare Catcher?

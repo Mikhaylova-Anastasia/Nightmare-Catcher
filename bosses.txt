@@ -1,21 +1,26 @@
 1 name - Eclipse
 1 hp - 20
-1 atk - 7
-1 special ability - Blindness
+1 atk - 3
+1 special_ability - Blindness
+1 negative_effect - 1
 ===
 2 name - Sadistic teacher
-2 hp - 26
-2 atk - 10
-2 special ability - Panic
+2 hp - 30
+2 atk - 8
+2 special_ability - Panic
+2 negative_effect - 3
 ===
 3
 ===
 4 name - Energy vampire
-4 hp - 33
-4 atk - 13
-4 special ability - Drain
+4 hp - 50
+4 atk - 14
+4 special_ability - Drain
+4 negative_effect - 20
 ===
 5 name - Owner's reflection
 5 hp - 50
 5 atk - 17
-5 special ability - all
+5 special_ability - all
+1 negative_effect - 1, 3, 20
+===

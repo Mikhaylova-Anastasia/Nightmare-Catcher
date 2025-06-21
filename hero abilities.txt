@@ -1,0 +1,3 @@
+2 Blindness - 1
+4 Blindness, Panic - 1, 3
+5 Blindness, Panic, Drain - 1, 3, 20

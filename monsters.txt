@@ -1,13 +1,13 @@
 1 name - creepy shadow
 1 hp - 10
-1 atk - 5
+1 atk - 2
 ===
 2 name - agressive bully
-2 hp - 13
-2 atk - 7
+2 hp - 20
+2 atk - 5
 ===
 3
 ===
 4 name - monster bat
-4 hp - 18
-4 atk - 11
+4 hp - 35
+4 atk - 10
